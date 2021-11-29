@@ -12,4 +12,3 @@ console.log(obj.age);
 
 alert("Привет");*/
 
-
